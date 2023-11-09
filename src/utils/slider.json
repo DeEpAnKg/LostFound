@@ -1,0 +1,38 @@
+[
+  {
+    "pet_name": "Fluffy Paws Haven",
+    "pet_price": "47,043 treats",
+    "pet_location": "Barktropolis Gardens, Pawsburgh, DKI Petjava",
+    "image": "./paw1.jpg"
+  },
+  {
+    "pet_name": "Whiskers Wonderland",
+    "pet_price": "66,353 treats",
+    "pet_location": "Meowtown Alley XVII No.215, Catville, Jawa Pawrat",
+    "image": "./paw2.jpg"
+  },
+  {
+    "pet_name": "Chirp-n-Chew Retreat",
+    "pet_price": "35,853 treats",
+    "pet_location": "Chirpy Paws Residence Block A7, Squeaky Street, Birdsville, Banten",
+    "image": "./paw3.jpg"
+  },
+  {
+    "pet_name": "Fluffy Paws Haven",
+    "pet_price": "47,043 treats",
+    "pet_location": "Barktropolis Gardens, Pawsburgh, DKI Petjava",
+    "image": "./paw1.jpg"
+  },
+  {
+    "pet_name": "Whiskers Wonderland",
+    "pet_price": "66,353 treats",
+    "pet_location": "Meowtown Alley XVII No.215, Catville, Jawa Pawrat",
+    "image": "./paw2.jpg"
+  },
+  {
+    "pet_name": "Chirp-n-Chew Retreat",
+    "pet_price": "35,853 treats",
+    "pet_location": "Chirpy Paws Residence Block A7, Squeaky Street, Birdsville, Banten",
+    "image": "./paw3.jpg"
+  }
+]
