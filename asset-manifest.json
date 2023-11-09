@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LostFound/static/css/main.e71717ee.css",
+    "main.js": "/LostFound/static/js/main.a572b00d.js",
+    "static/js/787.08eafa40.chunk.js": "/LostFound/static/js/787.08eafa40.chunk.js",
+    "index.html": "/LostFound/index.html",
+    "main.e71717ee.css.map": "/LostFound/static/css/main.e71717ee.css.map",
+    "main.a572b00d.js.map": "/LostFound/static/js/main.a572b00d.js.map",
+    "787.08eafa40.chunk.js.map": "/LostFound/static/js/787.08eafa40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71717ee.css",
+    "static/js/main.a572b00d.js"
+  ]
+}
